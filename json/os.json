@@ -1,5 +1,74 @@
 {
   "operatingSystems": [
+      {
+      "name": "اندروید",
+      "engName": "Android",
+      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Android_logo_2019.svg.png",
+      "apps": [
+        {
+          "name": "V2rayNG",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
+          "description": "A V2Ray client for Android devices.",
+          "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
+          "configLink": "v2rayng://install-config?url={url}",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the v2rayng app from the Google Play Store.",
+              "faStepText": "مرحله ۱: برنامه v2rayng را از پلی استور دانلود و نصب کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/1.jpg"
+            },
+            {
+              "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
+              "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/2.jpg"
+            },
+            {
+              "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server you want. And finally, connect from the bottom of the page.",
+              "faStepText": "مرحله  ۳ : ابتدا سرور مورد نظر را انتخاب کرده. سپس از طریق دکمه پایین صفحه متصل شوید",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "V2box",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2box.png",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
+          "configLink": "v2box://install-sub?url={url}&name=SUBnew",
+          "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 1: Download and install the V2box app from the Google Play Store.",
+              "faStepText": "مرحله ۱: برنامه وی تو باکس را از پلی استور دانلود و نصب کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box-android/1.jpg"
+            },
+            {
+              "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
+              "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box-android/2.jpg"
+            },
+            {
+              "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server and location you want. And finally, connect from the connect Button.",
+              "faStepText": "مرحله ۳: ابتدا از منو پایین وارد صفحه configs شوید. سپس سرور و لوکیشن مورد نظر را انتخاب کرده. و درنهایت با زدن روی دکمه کانکت متصل شوید.",
+              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box-android/3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "BeMarz 🦇 | بی مَرز",
+          "price": "تبلیغات",
+          "logo": "https://raw.githubusercontent.com/arp7vpn/bimarz/refs/heads/main/beifin.png",
+          "faDescription": "خرید وی پی ان با بهترین سرعت و مناسب ترین قیمت، با پلن های متنوع",
+          "description": "Fast 🚀 ,Secure 🔐, Reliable 😊 t",
+          "downloadLink": "https://t.me/bimarz724bot",
+          "isAd": true,
+          "adBtnText": "بزن بریم..."
+        }
+      ]
+    },
     {
       "name": "اپل",
       "engName": "iOS",
@@ -68,75 +137,6 @@
               "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server and location you want. And finally, connect from the slide to connect section.",
               "faStepText": "مرحله ۳: ابتدا از منو پایین وارد صفحه configs شوید. سپس سرور و لوکیشن مورد نظر را انتخاب کرده. و درنهایت از بخش slide to connect متصل شوید.",
               "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box/3.jpg"
-            }
-          ]
-        },
-        {
-          "name": "BeMarz 🦇 | بی مَرز",
-          "price": "تبلیغات",
-          "logo": "https://raw.githubusercontent.com/arp7vpn/bimarz/refs/heads/main/beifin.png",
-          "faDescription": "خرید وی پی ان با بهترین سرعت و مناسب ترین قیمت، با پلن های متنوع",
-          "description": "Fast 🚀 ,Secure 🔐, Reliable 😊 t",
-          "downloadLink": "https://t.me/bimarz724bot",
-          "isAd": true,
-          "adBtnText": "بزن بریم..."
-        }
-      ]
-    },
-    {
-      "name": "اندروید",
-      "engName": "Android",
-      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Android_logo_2019.svg.png",
-      "apps": [
-        {
-          "name": "V2rayNG",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
-          "description": "A V2Ray client for Android devices.",
-          "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
-          "configLink": "v2rayng://install-config?url={url}",
-          "downloadLink": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
-          "tutorialSteps": [
-            {
-              "stepText": "Step 1: Download and install the v2rayng app from the Google Play Store.",
-              "faStepText": "مرحله ۱: برنامه v2rayng را از پلی استور دانلود و نصب کنید.",
-              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/1.jpg"
-            },
-            {
-              "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
-              "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
-              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/2.jpg"
-            },
-            {
-              "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server you want. And finally, connect from the bottom of the page.",
-              "faStepText": "مرحله  ۳ : ابتدا سرور مورد نظر را انتخاب کرده. سپس از طریق دکمه پایین صفحه متصل شوید",
-              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/3.jpg"
-            }
-          ]
-        },
-        {
-          "name": "V2box",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2box.png",
-          "description": "A cross-platform V2Ray client.",
-          "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
-          "configLink": "v2box://install-sub?url={url}&name=SUBnew",
-          "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box",
-          "tutorialSteps": [
-            {
-              "stepText": "Step 1: Download and install the V2box app from the Google Play Store.",
-              "faStepText": "مرحله ۱: برنامه وی تو باکس را از پلی استور دانلود و نصب کنید.",
-              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box-android/1.jpg"
-            },
-            {
-              "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
-              "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
-              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box-android/2.jpg"
-            },
-            {
-              "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server and location you want. And finally, connect from the connect Button.",
-              "faStepText": "مرحله ۳: ابتدا از منو پایین وارد صفحه configs شوید. سپس سرور و لوکیشن مورد نظر را انتخاب کرده. و درنهایت با زدن روی دکمه کانکت متصل شوید.",
-              "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box-android/3.jpg"
             }
           ]
         },
